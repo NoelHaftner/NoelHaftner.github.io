@@ -27,6 +27,11 @@ p {
 	text-align: center;
 }
 
+marquee {
+	color:Chartreuse;
+	background-color: black;
+}
+
 .meme {
 	width: 314px;
 	height: auto;
