@@ -1,5 +1,6 @@
 body {
 	background-image: url("background.jpg");
+	cursor: url(cursor.png), auto;
 }
 
 #MainTitle {
